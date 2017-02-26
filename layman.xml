@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>slyrz</name>
+		<description lang="en">Personal Gentoo overlay></description>
+		<homepage>https://github.com/slyrz/overlay</homepage>
+		<owner type="person">
+			<email>slyrz@users.noreply.github.com</email>
+			<name>slyrz</name>
+		</owner>
+		<source type="git">https://github.com/slyrz/overlay.git</source>
+		<source type="git">git://github.com/slyrz/overlay.git</source>
+		<feed>https://github.com/slyrz/overlay/commits/master.atom</feed>
+	</repo>
+</repositories>
